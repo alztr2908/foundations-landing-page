@@ -136,6 +136,39 @@ nav ul li {
   padding-bottom: 20px;
 }
 
+.action-section {
+  background-color: #3882f6;
+  margin: 100px 300px;
+  padding: 50px 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 10px;
+}
+
+.action-section-title {
+  color: white;
+}
+
+.action-section-subtitle {
+  color: white;
+}
+
+.action-section-content {
+  margin: 0 10px;
+}
+
+.action-section-content-button {
+  background: none;
+  border: 2px solid white;
+  border-radius: 5px;
+  color: white;
+  padding: 5px 35px;
+  font-size: 16px;
+  font-weight: 600;
+  /* margin: 0 50px; */
+}
+
 footer {
   background-color: #1f2937;
   padding: 40px;
